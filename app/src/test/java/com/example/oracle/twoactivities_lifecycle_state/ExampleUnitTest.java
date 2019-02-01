@@ -1,4 +1,4 @@
-package com.example.oracle.twoactivities;
+package com.example.oracle.twoactivities_lifecycle_state;
 
 import org.junit.Test;
 

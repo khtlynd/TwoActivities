@@ -1,4 +1,4 @@
-package com.example.oracle.twoactivities;
+package com.example.oracle.twoactivities_lifecycle_state;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.oracle.twoactivities", appContext.getPackageName());
+        assertEquals("com.example.oracle.twoactivities_lifecycle_state", appContext.getPackageName());
     }
 }
